@@ -1,6 +1,6 @@
 # Free Music Downloader(weekend side project)
 
-A Python script to search, download, and play songs from JioSaavn without needing to manually extract URLs from the browser.
+A Python script to search, download, and play songs from JioSaavn without needing to manually extract URLs from the browser.(Just a JioSaavan bug... its working until they fix it)
 
 ## Screenshot
 ![Screenshot_2025-05-04_11-52-24](https://github.com/user-attachments/assets/24278023-db64-432a-b918-e69dba0b1cd9)
