@@ -1,4 +1,4 @@
-# JioSaavn Downloader
+# Free Music Downloader(weekend side project)
 
 A Python script to search, download, and play songs from JioSaavn without needing to manually extract URLs from the browser.
 
