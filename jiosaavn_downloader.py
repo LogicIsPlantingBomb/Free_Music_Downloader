@@ -184,7 +184,7 @@ def play_song(filename):
 
 
 def main():
-    print("🎵 JioSaavn Automatic Downloader")
+    print("🎵 Free Music Automatic Downloader")
     print("--------------------------------")
     
     while True:
@@ -225,7 +225,7 @@ def main():
                     
                     download_url = get_download_url(selected['id'])
                     if not download_url:
-                        print("❌ Couldn't get download URL")
+                        print("❌ Not available")
                         continue
                         
                     filename = f"{selected['title']} - {selected.get('primary_artists', selected.get('singers', 'Unknown'))}"
@@ -242,7 +242,7 @@ def main():
                     print(f"Error: {str(e)}")
                     
             elif choice == 2:
-                url = input("\nEnter direct JioSaavn MP4 URL: ").strip()
+                url = input("\nEnter direct MP4 URL: ").strip()
                 if not url or not url.startswith('http'):
                     print("Please enter a valid URL")
                     continue
@@ -256,7 +256,7 @@ def main():
                         play_song(downloaded_file)
                 
             elif choice == 3:
-                print("\nThank you for using JioSaavn Downloader! Goodbye!")
+                print("\nThank you for using Free music Downloader! Goodbye!")
                 break
                 
             else:
