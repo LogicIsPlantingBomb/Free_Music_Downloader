@@ -2,6 +2,10 @@
 
 A Python script to search, download, and play songs from JioSaavn without needing to manually extract URLs from the browser.
 
+## Screenshot
+![Screenshot_2025-05-04_11-52-24](https://github.com/user-attachments/assets/24278023-db64-432a-b918-e69dba0b1cd9)
+
+
 ## Features
 
 - 🔍 Search for songs directly within the script
