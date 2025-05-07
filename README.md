@@ -168,4 +168,4 @@ sudo apt-get install mpv
 
 This tool is for educational purposes only. Please respect copyright laws and artists' rights by using the downloaded content legally. JioSaavn's terms of service may prohibit automated downloading. Use at your own risk.
 
-## Developed with ❤️ BY DHRUV BHARDWAJ
+## Developed with ❤️ BY DHRUV BHARDWAJ.
